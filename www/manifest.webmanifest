@@ -1,0 +1,35 @@
+{
+  "name": "Hana's Sandwich Truck",
+  "short_name": "Sandwich Truck",
+  "description": "영어 주문을 읽고 버거를 만드는 타이쿤 + 미국 2·3학년 수학·과학·영어",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#2B2340",
+  "theme_color": "#FF7A6A",
+  "categories": [
+    "games",
+    "education",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

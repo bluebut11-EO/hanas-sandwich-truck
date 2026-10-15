@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.hanassandwichtruck",
+  "appName": "Hana's Sandwich Truck",
+  "webDir": "www",
+  "backgroundColor": "#2B2340",
+  "android": {
+    "backgroundColor": "#2B2340"
+  },
+  "ios": {
+    "backgroundColor": "#2B2340",
+    "contentInset": "never"
+  }
+}
